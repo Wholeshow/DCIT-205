@@ -1,6 +1,6 @@
 const express = require("express")
 const mongoose = require("mongoose")
-const DB_URL = "mongodb+srv://darkeh1807:alisajunior@cluster0.gyzovmf.mongodb.net/?retryWrites=true&w=majority";
+const DB_URL = "mongodb+srv://wholeshow:F05Ep2KFpPJZciO5@cluster0.gxcqbsq.mongodb.net/?retryWrites=true&w=majority";
 
 const server = express()
 const bodyParser = require("body-parser")
